@@ -1,7 +1,7 @@
 ![hiaudit](images/hiaudit.jpg)  
 [日本語のreadmeはこちら](https://github.com/TECHFUND/audit-report/tree/main/README-ja.md) 
 
-# Hi Audit Consulting by TECHFUND
+# Hi AUDIT Consulting by TECHFUND
 
 [**Hi AUDIT Consulting**](https://hiaudit.io/consulting) is a security audit service with high speed, high quality and best price.
 
