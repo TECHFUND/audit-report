@@ -1,5 +1,5 @@
 ![hiaudit](images/hiaudit.jpg)  
-[日本語のreadmeはこちら](https://github.com/TECHFUND/audit-report.git/README-ja.md) 
+[日本語のreadmeはこちら](https://github.com/TECHFUND/audit-report/tree/main/README-ja.md) 
 
 # Hi Audit Consulting by TECHFUND
 
@@ -27,10 +27,10 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 # Our Experience
 ## Security Audit
 
-* [Double Jump.tokyo](https://github.com/TECHFUND/audit-report.git/DJT)
-* [My Crypto Heroes](https://github.com/TECHFUND/audit-report.git/MCH)
-* [Quras](https://github.com/TECHFUND/audit-report.git/Quras) 
-* [JPYCoin](https://github.com/TECHFUND/audit-report.git/JPYC)   
+* [Double Jump.tokyo](https://github.com/TECHFUND/audit-report/tree/main/DJT)
+* [My Crypto Heroes](https://github.com/TECHFUND/audit-report/tree/main/MCH)
+* [Quras](https://github.com/TECHFUND/audit-report/tree/main/Quras) 
+* [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
 * BOBG
 * Crypto Games 
 * Kiheitai
@@ -48,7 +48,7 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 ## Pentesting 
 * ICICI
 * Aluna.Social
-* [Quras](https://github.com/TECHFUND/audit-report.git/Quras)  
+* [Quras](https://github.com/TECHFUND/audit-report/tree/main/Quras)  
 
 # Press Release
 [TECHFUNDがCryptoGamesと法人向けブロックチェーンゲームプロジェクトのトータルサポートに関するパートナーシップを締結](https://prtimes.jp/main/html/rd/p/000000042.000022017.html)  
