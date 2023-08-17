@@ -32,9 +32,9 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 * [Quras](https://github.com/TECHFUND/audit-report/tree/main/Quras) 
 * [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
 * BOBG
-* Crypto Games 
-* [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)   
-* Murasaki B.V
+* [CryptoGames](https://github.com/TECHFUND/audit-report/tree/main/CryptoGames) 
+* [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)
+* [MurasakiBV](https://github.com/TECHFUND/audit-report/tree/main/MurasakiBV)   
 * THE BATTLE(Isekai Battle)
 * WINLIGHT(GENSOKISHI)
 * Oasys Pte. Ltd.
