@@ -31,9 +31,9 @@ TECHFUNDでは、監査量や依頼状況に応じて、スピーディーな納
 * [Quras](https://github.com/TECHFUND/audit-report/tree/main/Quras) 
 * [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
 * BOBG
-* Crypto Games 
+* [CryptoGames](https://github.com/TECHFUND/audit-report/tree/main/CryptoGames) 
 * [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)
-* Murasaki B.V
+* [MurasakiBV](https://github.com/TECHFUND/audit-report/tree/main/MurasakiBV)   
 * THE BATTLE(Isekai Battle)
 * WINLIGHT(GENSOKISHI)
 * Oasys Pte. Ltd.
