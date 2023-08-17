@@ -42,7 +42,9 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 * URALA communications
 * Gaudiy 
 * Delta labs Pte. Ltd.
-* DIVA   
+* DIVA
+* [Spatial Labs](https://github.com/TECHFUND/audit-report/tree/main/Slabs)  
+
  note: We have audited many projects in addition to those listed here.
 
 ## Pentesting 
