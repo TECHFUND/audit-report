@@ -32,7 +32,7 @@ TECHFUNDでは、監査量や依頼状況に応じて、スピーディーな納
 * [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
 * BOBG
 * Crypto Games 
-* Kiheitai
+* [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)
 * Murasaki B.V
 * THE BATTLE(Isekai Battle)
 * WINLIGHT(GENSOKISHI)
