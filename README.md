@@ -31,14 +31,14 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 * [My Crypto Heroes](https://github.com/TECHFUND/audit-report/tree/main/MCH)
 * [Quras](https://github.com/TECHFUND/audit-report/tree/main/Quras) 
 * [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
-* BOBG
+* [BOBG](https://github.com/TECHFUND/audit-report/tree/main/BOBG) 
 * [CryptoGames](https://github.com/TECHFUND/audit-report/tree/main/CryptoGames) 
 * [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)
 * [MurasakiBV](https://github.com/TECHFUND/audit-report/tree/main/MurasakiBV)   
 * THE BATTLE(Isekai Battle)
 * WINLIGHT(GENSOKISHI)
-* Oasys Pte. Ltd.
-* Limitx(Bosotokyo)
+* [Limitx(Bosotokyo)](https://github.com/TECHFUND/audit-report/tree/main/Limitx) 
+* [Oasys](https://github.com/TECHFUND/audit-report/tree/main/Oasys) 
 * URALA communications
 * Gaudiy 
 * Delta labs Pte. Ltd.
