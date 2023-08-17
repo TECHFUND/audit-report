@@ -33,7 +33,7 @@ TECHFUND, which has provided support for many new businesses, aims to further ac
 * [JPYCoin](https://github.com/TECHFUND/audit-report/tree/main/JPYC)   
 * BOBG
 * Crypto Games 
-* Kiheitai
+* [Kiheitai](https://github.com/TECHFUND/audit-report/tree/main/Kiheitai)   
 * Murasaki B.V
 * THE BATTLE(Isekai Battle)
 * WINLIGHT(GENSOKISHI)
