@@ -1,0 +1,23 @@
+Nearcore
+
+    Low
+
+        Missing error handling
+            - https://github.com/near/nearcore/blob/6317cc6071c44268cdb5dfa52a64141b5e1f8cee/chain/chain/src/state_request_tracker.rs#L37
+
+                The save_state_part_elapsed() func does not handle the case when get_mut() returns None. This could lead to a panic if the 'crypto_hash' is not found in the 'requested_state_parts' cache. 
+
+                To reproduce this, call save_state_part_elapsed() func with a crypto_hash that is not there in the 'requested_state_parts' cache.
+
+            - https://github.com/near/nearcore/blob/6317cc6071c44268cdb5dfa52a64141b5e1f8cee/chain/network/src/routing/routing_table_view/mod.rs#L33
+
+                The find_next_hop() func does not handle the case where the next_hop is not found in the last_routed cache. This could lead to crashes.
+
+                If there are no entries for any of the peers in the `last_routed` cache, then the min_by_key() func will panic when trying to call .unwrap_or(0) on None value.
+
+                To reproduce, call find_next_hop() with a peer_id that is not in the last_routed cache.
+
+        Lack of Input Validation
+            - https://github.com/near/nearcore/blob/6317cc6071c44268cdb5dfa52a64141b5e1f8cee/chain/rosetta-rpc/src/config.rs#L3
+
+                The RosettaRpcConfig struct does not perform any validation on the 'addr' and 'cors_allowed_origins' fields. This could lead to potential issues if invalid data is provided. For example, an invalid IP address or port could be provided for the 'addr' field, or an invalid CORS policy could be provided for the 'cors_allowed_origins' field.
